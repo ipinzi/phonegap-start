@@ -6,10 +6,10 @@
         id        = "com.silverback.memo2self"
         version   = "99.999">
 
-    <name>memo2self</name>
+    <name>Memo2self</name>
 
     <description>
-        Template stuff WOOO!.
+        Give yourself a goal and track your progress with helpful memos and reminders.
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
